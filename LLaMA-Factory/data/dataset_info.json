@@ -1,0 +1,72 @@
+{
+    "letter_concat_ascii_multiply_composable_cot_train": {
+        "file_name": "../../data/composition/composable_cot/letter_concat_ascii_multiply_composable_cot/train.json"
+    },
+    "letter_concat_ascii_multiply_composable_cot_val": {
+        "file_name": "../../data/composition/composable_cot/letter_concat_ascii_multiply_composable_cot/val.json"
+    },
+    "letter_concat_ascii_multiply_composable_cot_test": {
+        "file_name": "../../data/composition/composable_cot/letter_concat_ascii_multiply_composable_cot/test.json"
+    },
+    "letter_concat_ascii_multiply_answer_only_train": {
+        "file_name": "../../data/composition/answer_only/letter_concat_ascii_multiply/train.json"
+    },
+    "letter_concat_ascii_multiply_answer_only_val": {
+        "file_name": "../../data/composition/answer_only/letter_concat_ascii_multiply/val.json"
+    },
+    "letter_concat_ascii_multiply_answer_only_test": {
+        "file_name": "../../data/composition/answer_only/letter_concat_ascii_multiply/test.json"
+    },
+    "letter_concat_next_last_letter_composable_cot_train": {
+        "file_name": "../../data/composition/composable_cot/letter_concat_next_last_letter_composable_cot/train.json"
+    },
+    "letter_concat_next_last_letter_composable_cot_val": {
+        "file_name": "../../data/composition/composable_cot/letter_concat_next_last_letter_composable_cot/val.json"
+    },
+    "letter_concat_next_last_letter_composable_cot_test": {
+        "file_name": "../../data/composition/composable_cot/letter_concat_next_last_letter_composable_cot/test.json"
+    },
+    "letter_concat_next_last_letter_answer_only_train": {
+        "file_name": "../../data/composition/answer_only/letter_concat_next_last_letter/train.json"
+    },
+    "letter_concat_next_last_letter_answer_only_val": {
+        "file_name": "../../data/composition/answer_only/letter_concat_next_last_letter/val.json"
+    },
+    "letter_concat_next_last_letter_answer_only_test": {
+        "file_name": "../../data/composition/answer_only/letter_concat_next_last_letter/test.json"
+    },
+    "next_last_letter_ascii_multiply_composable_cot_train": {
+        "file_name": "../../data/composition/composable_cot/next_last_letter_ascii_multiply_composable_cot/train.json"
+    },
+    "next_last_letter_ascii_multiply_composable_cot_val": {
+        "file_name": "../../data/composition/composable_cot/next_last_letter_ascii_multiply_composable_cot/val.json"
+    },
+    "next_last_letter_ascii_multiply_composable_cot_test": {
+        "file_name": "../../data/composition/composable_cot/next_last_letter_ascii_multiply_composable_cot/test.json"
+    },
+    "next_last_letter_ascii_multiply_answer_only_train": {
+        "file_name": "../../data/composition/answer_only/next_last_letter_ascii_multiply/train.json"
+    },
+    "next_last_letter_ascii_multiply_answer_only_val": {
+        "file_name": "../../data/composition/answer_only/next_last_letter_ascii_multiply/val.json"
+    },
+    "next_last_letter_ascii_multiply_answer_only_test": {
+        "file_name": "../../data/composition/answer_only/next_last_letter_ascii_multiply/test.json"
+    },
+
+    "skillmix_literary_rhetorical_composable_cot_train": {
+        "file_name": "../../data/composition/composable_cot/literary_rhetorical_composable_cot/train.json"
+    },
+    "skillmix_literary_rhetorical_composable_cot_val": {
+        "file_name": "../../data/composition/composable_cot/literary_rhetorical_composable_cot/val.json"
+    },
+    "skillmix_literary_rhetorical_composable_cot_test": {
+        "file_name": "../../data/composition/composable_cot/literary_rhetorical_composable_cot/test.json"
+    },
+    "skillmix_literary_rhetorical_answer_only_test": {
+        "file_name": "../../data/composition/answer_only/literary_rhetorical/test.json"
+    }
+    
+    
+
+}
